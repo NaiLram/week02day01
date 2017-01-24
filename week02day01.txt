@@ -1,0 +1,28 @@
+Machine language
+
+Komputer elmlerinde proqramlasdirma dillerinin en asagi seviyyesini tutur ve insan terefinden basa duwulmeye ama computer terefinden en yaxsi basa dusulen dildir. Masin dili binary say sistemlerinden ibaretdir ve bu saylar komputerde ishleyen digital siqnallarin tesviridir.Yeni diger bir dille komputerde istifade olunan  ve her biri ferqli menaya gelen siqnallara mashin dili demek olar.
+
+
+Assembly
+
+Assemblyde kod yazmaq daha cox kod ve daha cox vaxt teleb eliyir. Prosessorun gucunu tam shekilde ortaya qoyan yegane proqramlasdirma dilidir. Cox az yer tutdugu ucun viruslarin hazirlamasinda cox istifade olunur. Suretli olduguna gore driverlerin yazilmasinda istifade olunur. Bashqa diller ile birlikde de yazila bilir. Yaxwi oyrenilse, diger dillerde cixan boyuk prablemlerin hellini asanliqla Assembly-de tapmaq olur. Assemblyde yazilan kodlarin source kodunu butun dunya ile paylawsag bele onu bawa duwmey ucun cox vaxt lazimdi. Basa duwulmesi cox cetindi.
+
+
+COBOL
+
+COBOL – Common Business Oriented Language.1959-cu ilde CODASYL de yaranmiwdir. Dili yazanlar emrlerin ingilis diline yaxin olmasina calishdilar. Bu dil ticaret ve iw emeliyatlari ucun dunya miqyasinda qebul edildi. YUksek seviyyeli proqramlasdirma dilidir. Source proqram yazilandan sonar COBOL compiler terefinden kecir. Cobol dilinde yazilmiw proqramlar masin diline hec oxwamir. Bir cox ozone mexsus terminlere sahibdir. Dilde hardasa 250 termin var ki bunlar paragraph vey a deyiwen adi kimi istifade oluna bilmez.COBOL dilinde yazilmiw proqramlar umumilikde komputerden asli olmadigindan ferlqli tip komputerlerde ferqli neticeler gostere biler.
+
+
+Ruby
+
+Ruby obyekt yonlu dinamik proqramlashdirma dilidir. Rubynin soz yigimi gunumuzdede istifade olunan Perl ve Python ile cox oxwardir. Sinif ve metodlari teyin ederken acar sozlerden istifade olunur. Rubyde Perl-in eksine deyiwen adlarinin evvelinde teyinedici simvollardan ($, @@, % ) istifade etmek mecburiyeti yoxdur. Ruby-de herwey bir obyektdir.
+
+
+JavaScript
+
+JavaScript butun vacib browserlerde iwleyen en mewhur script dilidir. Oyrene bilmek ucun HTML ve XHTML biliklerine sahib olmaq lazimdir. Yazilan scriptler her browser terefinden ferqli iwledilir. Eslinde javaScript proqramlasdirma dili kimi hec qebul etmek olmaz. Cunki proqram yazmiriq onunla.Yeni browsersiz javaScript bir iwe yaramir. Ehtiyaca gore brwser obyektlerini idare ede bilir, sayti dinamiklewdirir ve daha da funksional ede bilir.
+
+
+C
+
+Xususi bir meqsed ucun yox , umimi meqsedli proqramlasdirma dilidir. 3-cu nesil dillerdendir. Dennis Ritchie terefinden Unix emeliyyat sistemi ucun 1972-ci ilde yaranmisdir.C compiler C dilinde yazilmisdir. Bu dilde yazilmish proqramlar her cur kamputerde deyisikliye ehtiyac olmadan isleyir.C dilinde bir cox emeliyyat proqramcinin yazdigi proseduralar ile edilir. C dili kamputerlerin butun gucunu ortaya qoya bildiyi ucun Assembly diline ehtiyac qalmadi. Unix emeliyyat sisteminin 13000 setrinin cemi 800 setri Assembly-de yazilib. Bu dilde yazilmiw funksiyalar tek ozu compiler ola bilir.
